@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosemary!</h1>
 <h3 align="center">Data Analyst</h3>
 
-<img align="right" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VHAPHKYCoFJTL7k-utZUdCOt1IY7smHpww&usqp=CAU](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+<img align="right" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VHAPHKYCoFJTL7k-utZUdCOt1IY7smHpww&usqp=CAU]([(https://prnt.sc/qm_cok8vjQ3K)]">
 
 👨‍💻 All of my projects are available at: https://public.tableau.com/app/profile/rosemary.espinal/vizzes
 
