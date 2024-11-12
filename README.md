@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rosemary!</h1>
 <h3 align="center">Data Analyst</h3>
 
-<img align="right" alt="Coding" width="500" src="(https://prnt.sc/qm_cok8vjQ3K)">
+![DALL·E 2024-11-12 03 50 54 - A lighthearted and fun profile image for a data analyst with colorful, playful visuals  The image includes whimsical, stylized charts, gra](https://github.com/user-attachments/assets/f2b6a96f-5e87-4ab3-bcf7-3c3483ce0f04)
+
 
 👨‍💻 All of my projects are available at: https://public.tableau.com/app/profile/rosemary.espinal/vizzes
 
