@@ -4,7 +4,8 @@
   <img src="https://github.com/user-attachments/assets/b30903bf-feb1-42a8-925a-dda46cecb787" width="400" />
 </p>
 
-<h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. I approach data analysis like a detective—using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h2>
+<h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
+  I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="500" />
