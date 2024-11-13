@@ -18,7 +18,7 @@
 
 <div>
 
-<h2 align="left">Key Projects</h2>
+<h2 align="left">Key Projects:</h2>
 
 <h3 align="left"> Project #1:</h3>
 Summary:
@@ -42,16 +42,18 @@ Description:
 
 
 <div>
-👨‍💻 Discover More on Tableau Public:
+<h2 align="left">👨‍💻 Discover More on Tableau Public:</h2>
 
-  Explore more of my interactive data visualizations on my <a href="https://public.tableau.com/app/profile/rosemary.espinal/vizzes" target="_blank">Tableau Public Profile</a>, where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
+Explore more of my interactive data visualizations on my <a href="https://public.tableau.com/app/profile/rosemary.espinal/vizzes" target="_blank">Tableau Public Profile</a>, where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
 </div>
 
 
-📫 How to reach me: espinal.rosemary18@gmail.com
+<h2 align="left">📫 How to reach me:</h2> 
+espinal.rosemary18@gmail.com
 
 
-📄 Know about my experiences and connect with me: https://www.linkedin.com/in/rosemary-espinal/
+<h2 align="left">📄 Know about my experiences and connect with me:</h2>
+https://www.linkedin.com/in/rosemary-espinal/
 
 <h2 align="left">Skills and Tools:</h2>
 
