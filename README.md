@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosemary!</h1>
 
-<h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
-  I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center; width: 100%; height: 100vh;">
   <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="150" />
   <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width="150" />
@@ -10,8 +7,8 @@
 </div>
 
 
-
-
+<h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
+  I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
 
 <div>
