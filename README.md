@@ -8,11 +8,11 @@
   I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="300" />
+  <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="150" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width = "300" />
+  <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width = "150" />
 </p>
 
 
