@@ -16,6 +16,7 @@
 </p>
 
 
+<div>
 
 <h2 align="left">Key Projects</h2>
 
@@ -37,12 +38,12 @@ Skills Used:
 Description:
 [Link]
 
+</div>
 
-<p>👨‍💻 Discover More on Tableau Public:
+👨‍💻 Discover More on Tableau Public:
 
   Explore more of my interactive data visualizations on my <a href="https://public.tableau.com/app/profile/rosemary.espinal/vizzes" target="_blank">Tableau Public Profile</a>, where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
 
-</p>
 
 
 📫 How to reach me: espinal.rosemary18@gmail.com
