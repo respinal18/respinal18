@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosemary!</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b30903bf-feb1-42a8-925a-dda46cecb787" width="400" />
-</p>
-
 <h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
   I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
