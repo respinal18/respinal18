@@ -15,6 +15,9 @@
   <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width = "150" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec047a02-78fb-47d5-bd79-2eac57382cc6" alt="game dashboard" width = "150" />
+
 
 <div>
 
