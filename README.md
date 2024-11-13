@@ -7,11 +7,12 @@
 <h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
   I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="150" />
   <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width="150" />
   <img src="https://github.com/user-attachments/assets/ec047a02-78fb-47d5-bd79-2eac57382cc6" alt="game dashboard" width="150" />
 </div>
+
 
 
 
