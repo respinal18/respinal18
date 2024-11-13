@@ -2,7 +2,7 @@
 
 <h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. I approach data analysis like a detective—using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h2>
 
-![DALL·E 2024-11-12 03 50 54 - A lighthearted and fun profile image for a data analyst with colorful, playful visuals  The image includes whimsical, stylized charts, graphs, etc.]<img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" width="300" />
+<img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="DALL·E 2024-11-12 03 50 54 - A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="300" />
 
 <h2 align="left">Key Projects</h2>
 
