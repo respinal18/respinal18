@@ -2,8 +2,31 @@
 
 a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. I approach data analysis like a detective—using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.
 
+<h2 align="left">Key Projects</h2>
+1. Project #1:
+Summary:
+Skills Used:
+Description:
+[Link]
 
-👨‍💻 All of my projects are available at: https://public.tableau.com/app/profile/rosemary.espinal/vizzes
+2. Project #2:
+Summary:
+Skills Used:
+Description:
+[Link]
+
+3. Project #3:
+Summary:
+Skills Used:
+Description:
+[Link]
+
+
+👨‍💻 Discover More on Tableau Public:
+Explore more of my interactive data visualizations on my [Tableau Public Profile][https://public.tableau.com/profile/yourprofile](https://public.tableau.com/app/profile/rosemary.espinal/vizzes), where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
+
+
+https://public.tableau.com/app/profile/rosemary.espinal/vizzes
 
 📫 How to reach me: espinal.rosemary18@gmail.com
 
