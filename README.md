@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rosemary!</h1>, a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. I approach data analysis like a detective—using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Rosemary!</h1>
+
+a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. I approach data analysis like a detective—using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.
 
 
 👨‍💻 All of my projects are available at: https://public.tableau.com/app/profile/rosemary.espinal/vizzes
