@@ -24,7 +24,7 @@ Description:
 
 
 👨‍💻 Discover More on Tableau Public:
-Explore more of my interactive data visualizations on my [Tableau Public Profile] <a href="https://public.tableau.com/app/profile/rosemary.espinal/vizzes" target ="_blank">, where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
+Explore more of my interactive data visualizations on my [Tableau Public Profile] <a href="https://public.tableau.com/app/profile/rosemary.espinal/vizzes" target ="_blank"> , where you’ll find projects ranging from sales trend analysis to customer segmentation. Each dashboard showcases my ability to create clear, engaging visuals that make complex data insights accessible.
 
 
 📫 How to reach me: espinal.rosemary18@gmail.com
