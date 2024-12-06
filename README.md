@@ -1,37 +1,34 @@
 <h1 align="center">Hi 👋, I'm Rosemary!</h1>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center; width: 100%; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; text-align: center;">
   <img src="https://github.com/user-attachments/assets/e5ba6994-07be-4460-b63d-fbb96f312aa3" alt="A lighthearted and fun profile image for a data analyst with colorful, playful visuals. The image includes whimsical, stylized charts, graphs, etc." width="150" />
   <img src="https://github.com/user-attachments/assets/90e5ad03-6190-4398-9811-6eb0ced4d8e2" alt="A Hispanic woman detective, with shoulder-length dark brown hair and a focused expression, sitting at a desk surrounded by multiple monitors" width="150" />
   <img src="https://github.com/user-attachments/assets/ec047a02-78fb-47d5-bd79-2eac57382cc6" alt="game dashboard" width="150" />
 </div>
 
-
 <h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
   I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
+
 
 
 <div>
 
 <h2 align="left">📁 Key Projects:</h2>
 
-<h3 align="left"> 📝 Project #1:</h3>
-Summary:
-Skills Used:
-Description:
-[Link]
+<h3 align="left">
+  📝 Project #1: 
+  <a href="https://github.com/respinal18/InvestingInOurFuture" target="_blank">Investing In Our Future</a>
+</h3>
+<p><b>Summary:</b> This project examines the impact of government spending on health and education outcomes in the United States and Canada from 2004 to 2013.</p>
+<p><b>Skills Used:</b> Excel, SQL & PowerPoint </p>
 
-<h3 align="left"> 📝 Project #2:</h3>
-Summary:
-Skills Used:
-Description:
-[Link]
+<h3 align="left">
+  📝 Project #2: 
+  <a href="https://github.com/respinal18/LifeExpectancyInsights" target="_blank">Beyond the Numbers</a>
+</h3>
+<p><b>Summary:</b> This project analyzes the factors influencing life expectancy worldwide, exploring socioeconomic, healthcare, and lifestyle determinants using data from the World Health Organization.</p>
+<p><b>Skills Used:</b> Excel, Python, Tableau & PowerPoint </p>
 
-<h3 align="left"> 📝 Project #3:</h3>
-Summary:
-Skills Used:
-Description:
-[Link]
 
 </div>
 
