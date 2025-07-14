@@ -9,30 +9,6 @@
 <h3 align="center">a Data Analyst with a background in retail and a passion for uncovering insights that drive impact. 
   I approach data analysis like a detective 🔍🕵️‍♀️ — using tools like SQL, Python, and Tableau to solve problems and turn data into clear, actionable stories.</h3>
 
-
-
-<div>
-
-<h2 align="left">📁 Key Projects:</h2>
-
-<h3 align="left">
-  📝 Project #1: 
-  <a href="https://github.com/respinal18/InvestingInOurFuture" target="_blank">Investing In Our Future</a>
-</h3>
-<p><b>Summary:</b> This project examines the impact of government spending on health and education outcomes in the United States and Canada from 2004 to 2013.</p>
-<p><b>Skills Used:</b> Excel, SQL & PowerPoint </p>
-
-<h3 align="left">
-  📝 Project #2: 
-  <a href="https://github.com/respinal18/LifeExpectancyInsights" target="_blank">Beyond the Numbers</a>
-</h3>
-<p><b>Summary:</b> This project analyzes the factors influencing life expectancy worldwide, exploring socioeconomic, healthcare, and lifestyle determinants using data from the World Health Organization.</p>
-<p><b>Skills Used:</b> Excel, Python, Tableau & PowerPoint </p>
-
-
-</div>
-
-
 <div>
 <h2 align="left">👨‍💻 Discover More on Tableau Public:</h2>
 
